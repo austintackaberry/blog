@@ -1,0 +1,25 @@
+I had some qualms before starting FCC. So many people recommended it, but it seemed crazy to me that basically everyone that does FCC would have the exact same portfolio. Sure it's nice that there are projects that are spaced out appropriately so that you are working on projects that are perfectly slightly harder than you can handle. But my unique and individualistic side kept wondering how I could stand out to recruiters if my projects were the same as everyone else's. But then it hit me.
+
+Recruiters are not going to really care about these projects. The purpose of these projects is for me to learn by doing. Sure it's nice to read textbooks and follow tutorials to find the right way to do things. But that is passive learning. Everyone always thinks that they know how to do something immediately after following along in a tutorial...until they actually try to do it...and they realize that none of it stuck and they are back at square one. As soon as I realized that the projects are for me and my learning only, from that point on I was content with having similar projects as everyone else. If I really wanted special projects on my portfolio, then I could add an extra feature to make them unique, or I could just build other projects that I thought of.
+
+### The projects
+
+They are fantastic. They really are. The two most common complaints I see regarding people working on projects are the following:
+1. I just can't think of any interesting projects. I literally am drawing blanks here.
+1. I feel like I have great project ideas, but they end up being way too difficult for me and now I have several unfinished projects.
+
+In my opinion, FCC handles these complaints beautifully. The projects are interesting and at the perfect skill level. There are just enough of them to really hammer down key concepts for building web apps.
+
+### The negatives
+
+The exercises are almost all copy-pasta. I like the projects and the challenges, but the learning exercises are almost a waste of time in my opinion. They tell you how to do something and then make you do it yourself, but the answer is almost always basically given. This makes it easy to breeze through exercises without learning anything. So then by the time people get to the projects, they don't know anything and have to learn on the fly.
+
+They try to keep you away from using your own text editor. This makes sense given that setting up a developer environment could prevent a lot of people from getting started, but if you know you're in it for the long haul, then you should really do all of your work in your own developer environment and resist using codepen. This isn't that big of a negative because if you know that it is a good idea to work in your own developer environment on your own machine, then you can just do it and ignore when they tell you to use codepen. Codepen removes a lot of the annoying parts of programming, but all you're doing is delaying the inevitable.
+
+### My recommendations
+
+Focus on the projects. If you find better resources to learn html/css/javascript then feel free to leave FCC and do them, but I recommend coming back and completing the projects in your own text editor in your own developer environment. One thing I did find myself doing was getting the projects to the point where they fulfilled the user stories, and then moving on without making them "pretty". I felt like I was in a rush to keep moving forward, but the main reason was just that I find CSS to be tedious. I plan to come back and make them presentable at some point. As for a recommendation, the jury is still out on whether that was a good strategy. On one hand, you don't want to be stuck on a project for months trying to make it perfect without moving on, but on the other hand, you don't want to move so quickly that you aren't learning some of the things that you should.
+
+I am absolutely glad that I chose FreeCodeCamp over the Odin Project and I would give that advice to anyone that asks. As soon as you find yourself copy-pastaing, that is the moment that you need to go back and re-read the material and make an active effort to actually learn it. I pretty much cruised through the program until I found my way to React. I found myself searching for external resources. I started at the React docs, but those left me somewhat unsatisfied. Everyone says they are great, but I don't think I understood javascript enough for it to click. So then I started reading "You Don't Know Javascript", but I found this to be difficult to retain. There didn't seem to be many good free resources for React, but there were a couple paid recommended courses by Colt Steele and Wes Bos. I ended up making the decision to just work on the React projects without fully understanding what was going on under the hood with the intention of coming back and learning it more deeply.
+
+Currently I am starting the back end projects, and I'm excited to make some full stack web apps soon!
